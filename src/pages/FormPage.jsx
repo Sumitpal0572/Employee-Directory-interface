@@ -1,3 +1,5 @@
+import EmployeeForm from "../components/EmployeeForm";
+
 function FormPage() {
   return (
     <div className="p-4">

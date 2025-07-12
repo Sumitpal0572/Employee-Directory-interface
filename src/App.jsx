@@ -1,7 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import Dashboard from "./pages/DashBoard";
-// import FormPage from "./pages/FormPage";
-
+import FormPage from "./pages/FormPage";
 
 function App() {
   return (
