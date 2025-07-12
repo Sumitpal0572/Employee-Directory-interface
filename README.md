@@ -22,3 +22,6 @@ A responsive and interactive **Employee Directory** built using **React** and **
 
 ---
 
+### Deployment Link
+
+[Live Link](https://employee-directory-interface.vercel.app/)
