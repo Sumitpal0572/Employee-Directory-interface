@@ -1,8 +1,24 @@
-# React + Vite
+# 👥 Employee Directory Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and interactive **Employee Directory** built using **React** and **Tailwind CSS**. This project demonstrates a modular front-end system with filtering, sorting, pagination, and employee management (edit/delete) features.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
+
+- ✅ List of employees with **First Name, Email, Department, Role**
+- ✅ **Edit** and **Delete** employee functionality
+- ✅ Add new employee form (navigates to `/form`)
+- ✅ **Search** by name or email
+- ✅ **Filter** employees by:
+  - First Name
+  - Department
+  - Role
+- ✅ **Sort** employees by:
+  - First Name
+  - Department
+- ✅ **Pagination** (10, 25, 50, 100 items per page)
+- ✅ Fully **responsive UI** for desktop, tablet, and mobile
+
+---
+
